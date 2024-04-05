@@ -1,0 +1,6 @@
+packages:
+  - name: main
+    functions:
+      - name: n2w
+        limits:
+        runtime: 'php:8.0'
